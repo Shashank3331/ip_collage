@@ -1,0 +1,35 @@
+.nav{
+    text-decoration: none;
+    color: #000;
+    margin: 5px;
+    display: inline;
+}
+form{
+    background-color: #f5f5f5;
+    padding: 10px;
+    box-shadow: 5px 5px 5px #ccc;
+}
+
+form lable,input{
+    display: block;
+}
+form input{
+    margin: 10px 0px; 
+}
+form select{
+    display: block;
+    width: 190px;
+}
+form button{
+    margin: 3px;
+    border: none;
+    background-color: orange;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+table th,td{
+    border: 2pxc solid red
+}
